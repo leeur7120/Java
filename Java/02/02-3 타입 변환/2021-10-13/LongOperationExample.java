@@ -10,7 +10,7 @@ public class LongOperationExample{
         int value2 = 100;
         // 1000을 long형 변수 value3의 초기값으로 저장
         long value3 = 1000L;
-        // 
+        // 1110 을 출력
         long result = value1 + value2 + value3;
         System.out.println(result);
     }
